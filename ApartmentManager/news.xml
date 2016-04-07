@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="/resources/xsl/rdf_xsl.jsp" type="text/xsl"?>
+<rss version="2.0">
+<!--
+* XML-format for teasering tagesschau.de-headlines. Version: 2.0
+* Release-Date:2002/02/04, last updated 2006/06/28
+*
+* Die Nutzung dieser Inhalte ist ausschliesslich nicht-kommerziellen Internet-
+* Angeboten erlaubt, die Nutzung kann jederzeit von tagesschau.de untersagt
+* werden. tagesschau.de übernimmt keinen Support, zudem wird keine Verfügbarkeit
+* dieser XML-Datei gewährleistet. Die Inhalte dürfen nicht archiviert werden.
+* Weitere Informationen http://www.tagesschau.de/download/0,,SPM17234,00.html
+//-->
+<channel>
+<title>tagesschau.de - Die Nachrichten der ARD</title>
+<link>http://www.tagesschau.de</link>
+<description>tagesschau.de</description>
+<language>de</language>
+<copyright>tagesschau.de, Norddeutscher Rundfunk</copyright>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs>
+<ttl>30</ttl>
+<item>
+<title>IS-Anschläge in Brüssel: Wer ist gefasst, wer wird gesucht?</title>
+<link>http://www.tagesschau.de/ausland/attentaeter-101.html</link>
+<description>Drei Attentäter sprengten sich in Brüssel in die Luft und rissen mindestens 31 Menschen mit in den Tod. Doch an den Anschlägen waren weitere Männer beteiligt. Was ist über sie bekannt? tagesschau.de gibt einen Überblick über den Stand der Ermittlungen.</description>
+<guid>http://www.tagesschau.de/ausland/attentaeter-101.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>Brüssel: Haftbefehl gegen drei Terrorverdächtige</title>
+<link>http://www.tagesschau.de/ausland/bruessel-attentaeter-105.html</link>
+<description>Die belgische Staatsanwaltschaft hat gegen drei Terrorverdächtige Haftbefehl erlassen. Einer von ihnen soll laut Medien der dritte Flughafenattentäter von Brüssel sein, der auf einem Überwachungsvideo mit weißer Jacke und Hut zu sehen war.</description>
+<guid>http://www.tagesschau.de/ausland/bruessel-attentaeter-105.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>Belgische Behörden unter Druck: "Jemand hat gepatzt"</title>
+<link>http://www.tagesschau.de/ausland/bruessel-ermittlungen-und-pannen-101.html</link>
+<description>Mit "Hochdruck", wie es so schön heißt, fahnden die belgischen Behörden nach weiteren Verdächtigen des Terrornetzwerks. Gleichzeitig gibt es jedoch immer mehr Hinweise auf Schlampereien und Versäumnisse in den Monaten vor den Anschlägen.</description>
+<guid>http://www.tagesschau.de/ausland/bruessel-ermittlungen-und-pannen-101.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>De Maizière plant Sanktionen für Integrationsverweigerer</title>
+<link>http://www.tagesschau.de/inland/integration-fluechtlinge-de-maiziere-101.html</link>
+<description>Wer als Flüchtling nach Deutschland kommt, soll sich integrieren müssen. Ein entsprechendes Gesetz ist in Arbeit. Eckpunkte nannte Innenminister de Maizière im Interview mit dem ARD-Hauptstadtstudio: So sollen Verweigerer keine dauerhafte Niederlassungserlaubnis bekommen.</description>
+<guid>http://www.tagesschau.de/inland/integration-fluechtlinge-de-maiziere-101.html</guid>
+<category>Inland</category>
+</item>
+<item>
+<title>"FAZ": AfD-Sprecher spricht nicht mehr für Petry</title>
+<link>http://www.tagesschau.de/inland/petry-afd-101.html</link>
+<description>In der AfD-Spitze gibt es offenbar neuen Streit: Nach Informationen der "FAZ" will Parteichefin Petry nicht mehr mit Pressesprecher Lüth zusammenarbeiten - der Rest des Bundesvorstandes aber schon. Unterdessen sorgt ein Interview der Deutschen Welle mit Petry für Aufmerksamkeit.</description>
+<guid>http://www.tagesschau.de/inland/petry-afd-101.html</guid>
+<category>Inland</category>
+</item>
+<item>
+<title>Ex-Missbrauchsbeauftragter soll Frau missbraucht haben</title>
+<link>http://www.br.de/nachrichten/unterfranken/inhalt/bistum-wuerzburg-missbrauchsvorwurf-100.html</link>
+<description>Er soll eine 17-Jährige zum Oralverkehr gezwungen, den Fall vertuscht haben und später selbst Missbrauchsbeauftragter geworden sein: Ein Medienbericht erhebt schwere Vorwürfe gegen einen Geistlichen des Bistums Würzburg. Die Kirche hielt demnach den Fall jahrelang geheim.</description>
+<guid>http://www.br.de/nachrichten/unterfranken/inhalt/bistum-wuerzburg-missbrauchsvorwurf-100.html</guid>
+<category>Inland</category>
+</item>
+<item>
+<title>Interview zur Sicherheit beim Fußball: "Alle Szenarien im Kopf haben"</title>
+<link>http://www.tagesschau.de/inland/interview-laenderspiel-fussball-101.html</link>
+<description>Erneut findet ein Heimspiel der deutschen Nationalmannschaft kurz nach einem Terroranschlag statt. Sicherheitsexperte Spahn glaubt im Gespräch mit tagesschau.de jedoch nicht, dass der Anpfiff wie beim letzten Mal gefährdet ist, auch wenn Fußballspiele schwer zu schützen seien.</description>
+<guid>http://www.tagesschau.de/inland/interview-laenderspiel-fussball-101.html</guid>
+<category>Inland</category>
+</item>
+<item>
+<title>#kurzerklärt: Wie zeitgemäß ist Zeitumstellung?</title>
+<link>http://www.tagesschau.de/multimedia/kurzerklaert/kurzerklaert-111.html</link>
+<description>Kommende Nacht ist es wieder soweit - wie immer am letzten Wochenende im März werden die Uhren auf Sommerzeit umgestellt. Also: Eine Stunde weniger Schlaf von Samstag auf Sonntag. Warum eigentlich noch mal genau? Und muss das immer so bleiben?</description>
+<guid>http://www.tagesschau.de/multimedia/kurzerklaert/kurzerklaert-111.html</guid>
+<category>Videos & Audios</category>
+</item>
+<item>
+<title>Rolling Stones in Havanna: "Besser als Obama"</title>
+<link>http://www.tagesschau.de/ausland/stones-kuba-101.html</link>
+<description>Jahrzehnte mussten die Kubaner auf eine Gelegenheit warten, "Los Rolling", wie sie die Stones hier nennen, live zu sehen. Gestern spielten Mick Jagger &amp; Co. das erste Mal in Havanna - und 500.000 Menschen kamen, um sie zu hören. Auch Anne-Katrin Mellmann war dort.</description>
+<guid>http://www.tagesschau.de/ausland/stones-kuba-101.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>US-Waffenlobby schreibt Märchen um</title>
+<link>http://www.tagesschau.de/ausland/us-waffenlobby-schreibt-maerchen-um-101.html</link>
+<description>Rotkäppchen und seine Großmutter kennt jedes Kind. Aber mit Gewehr? Die US-Waffenlobby hat kurzerhand die Geschichten umgeschrieben und die Figuren bewaffnet - zum Entsetzen derer, die für strengere Waffengesetze kämpfen. Rolf Büllmann über eine wenig märchenhaften Geschichte.</description>
+<guid>http://www.tagesschau.de/ausland/us-waffenlobby-schreibt-maerchen-um-101.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>Multimedia-Rückblick: Die Tragödie um Flug 4U9525</title>
+<link>http://www.tagesschau.de/inland/germanwings-absturz-191.html</link>
+<description>Ein Alpenpanorama, Trümmer eines Flugzeugs und verzweifelte Angehörige: Vor einem Jahr endete der Germanwings-Flug 4U9525 an einer Felswand, der Co-Pilot ließ den A320 zerschellen. Ein multimedialer Rückblick auf eine der dramatischsten Katastrophen der Luftfahrtgeschichte.</description>
+<guid>http://www.tagesschau.de/inland/germanwings-absturz-191.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>Animation: Das Rennen ums Weiße Haus</title>
+<link>http://wahl.tagesschau.de/usa/</link>
+<description>Bevor ein neuer US-Präsident gewählt werden kann, müssen Demokraten und Republikaner einen Kandidaten küren - und es läuft immer deutlicher auf Clinton und Trump hinaus. Im interaktiven Wahlmonitor stellen wir die Kandidaten vor und zeigen, wie es im Rennen um eine Nominierung steht.</description>
+<guid>http://wahl.tagesschau.de/usa/</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>tagesschau 100 Sekunden Englisch</title>
+<link>http://www.tagesschau.de/100s/englisch/</link>
+<description>Die aktuellen Meldungen des Tages in englischer Sprache</description>
+<guid>http://www.tagesschau.de/100s/englisch/</guid>
+<category>Inland</category>
+</item>
+<item>
+<title>tagesschau 100 Sekunden Arabisch</title>
+<link>http://www.tagesschau.de/100s/arabisch/</link>
+<description>Die aktuellen Meldungen des Tages in arabischer Sprache</description>
+<guid>http://www.tagesschau.de/100s/arabisch/</guid>
+<category>Inland</category>
+</item>
+<item>
+<title>Zeitgeschichte: Die Tagesschau vor 20 Jahren</title>
+<link>http://www.tagesschau.de/inland/tsvorzwanzigjahren100.html</link>
+<description>Wie sah die Welt vor 20 Jahren aus? Welche Themen bestimmten die politische Debatte? Wer war damals wichtig? Die Tagesschau bietet einen wertvollen Einblick in die jüngere Zeitgeschichte. Tagesschau.de dokumentiert sie Tag für Tag mit den 20-Uhr-Ausgaben.</description>
+<guid>http://www.tagesschau.de/inland/tsvorzwanzigjahren100.html</guid>
+<category>Inland</category>
+</item>
+<item>
+<title>Videoblogs der ARD-Korrespondenten</title>
+<link>http://www.tagesschau.de/videoblog/index.html</link>
+<description>Die ARD hat eines der größten Korrespondentennetze weltweit. In ihren Videoblogs berichten unsere Korrespondentinnen und Korrespondenten über die kleinen Dinge des Lebens und die große Politik, über Ernstes und Skurriles, über besondere Rituale und alltägliche Gebräuche.</description>
+<guid>http://www.tagesschau.de/videoblog/index.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>Zahl der ankommenden Flüchtlinge sinkt offenbar weiter</title>
+<link>http://www.tagesschau.de/inland/fluechtlingszahlen-119.html</link>
+<description>Die Zahl der in Deutschland ankommenden Migranten geht einem Bericht zufolge weiter zurück. Vom 18. bis zum 23. März habe die Bundespolizei pro Tag etwa 135 Menschen aufgegriffen, berichtet die "Bild"-Zeitung. Bis Mitte Februar waren es mehr als 2000 Flüchtlinge pro Tag.</description>
+<guid>http://www.tagesschau.de/inland/fluechtlingszahlen-119.html</guid>
+<category>Inland</category>
+</item>
+<item>
+<title>Elektro-Chips statt Mindesthaltbarkeitsdatum?</title>
+<link>http://www.tagesschau.de/inland/mindesthaltbarkeitsdatum-schmidt-101.html</link>
+<description>Jeder Deutsche wirft im Jahr durchschnittlich 82 Kilogramm Lebensmittel weg, obwohl das meiste davon noch genießbar wäre. Dagegen will Bundesagrarminister Schmidt nun vorgehen. Er fordert die Abschaffung des Mindesthaltbarkeitsdatums und Verpackungen mit elektronischen Chips.</description>
+<guid>http://www.tagesschau.de/inland/mindesthaltbarkeitsdatum-schmidt-101.html</guid>
+<category>Inland</category>
+</item>
+<item>
+<title>Lesbos nach EU-Türkei-Pakt : Eine Insel im Wartezustand</title>
+<link>http://www.tagesschau.de/ausland/fluechtlinge-lesbos-117.html</link>
+<description>Seit einer Woche ist das Flüchtlingsabkommen der EU mit der Türkei in Kraft. Auf der griechischen Insel Lesbos warten jetzt die einen auf die versprochenen EU-Beamten, die anderen hoffen auf zurückkehrende Touristen. Michael Lehmann berichtet.</description>
+<guid>http://www.tagesschau.de/ausland/fluechtlinge-lesbos-117.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>Rom: Papst prangert religiösen Extremismus an</title>
+<link>http://www.tagesschau.de/ausland/kreuzweg-kolosseum-105.html</link>
+<description>Die jüngsten Terroranschläge haben auch die Feiern zur Kreuzwegsprozession in Rom überschattet. Diese fanden unter strengen Sicherheitsvorkehrungen statt. In seiner Rede prangerte Papst Franziskus den religiösen Extremismus an. Von Tilmann Kleinjung.</description>
+<guid>http://www.tagesschau.de/ausland/kreuzweg-kolosseum-105.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>Analyse: Schwächt der Tod mehrerer Kommandeure den IS?</title>
+<link>http://www.tagesschau.de/ausland/is-syrien-139.html</link>
+<description>Die USA haben in der Vergangenheit bereits mehrere wichtige IS-Anführer in Syrien getötet. Doch schwächt das die Terrormiliz wirklich? Kritiker der US-Regierung sagen, die Aktionen würden IS nicht daran hindern, Angriffe zu verüben. Von Rolf Büllmann.</description>
+<guid>http://www.tagesschau.de/ausland/is-syrien-139.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>Viele Tote bei Anschlag in Stadion im Irak</title>
+<link>http://www.tagesschau.de/ausland/irak-767.html</link>
+<description>Nach dem Selbstmordanschlag in einem Fußballstadion südlich von Bagdad ist die Zahl der Opfer auf 41 gestiegen,  105 Menschen wurden verletzt. Zu dem Anschlag bekannte sich die Terrormiliz "Islamischer Staat"</description>
+<guid>http://www.tagesschau.de/ausland/irak-767.html</guid>
+<category>Ausland</category>
+</item>
+<item>
+<title>Billigöl bereitet Elektroautos Probleme</title>
+<link>http://www.tagesschau.de/wirtschaft/e-autos-diesel-101.html</link>
+<description>Der niedrige Ölpreis kurbelt die Konjunktur an. Doch für den Ausbau von erneuerbaren Energien und E-Autos ist diese Entwicklung alles andere als gut. Das räumt die Bundesregierung auf eine Anfrage der Grünen-Bundestagsfraktion ein, die dem BR vorliegt. Von Arne Meyer.</description>
+<guid>http://www.tagesschau.de/wirtschaft/e-autos-diesel-101.html</guid>
+<category>Wirtschaft</category>
+</item>
+<item>
+<title>Auswirkungen des Terrorismus auf den Tourismus</title>
+<link>http://www.tagesschau.de/ausland/tourismus-terror-103.html</link>
+<description>In Folge der Terroranschläge in der Türkei, Ägypten und Tunesien sind Urlaubsbuchungen für diese Reiseziele drastisch zurückgegangen. Davon profitieren vor allem Spanien und Portugal - sie rechnen mit einem Besucherrekord für dieses Jahr. Von Jörg Rheinländer.</description>
+<guid>http://www.tagesschau.de/ausland/tourismus-terror-103.html</guid>
+<category>Ausland</category>
+</item>
+</channel>
+</rss>
